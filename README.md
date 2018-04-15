@@ -1,2 +1,2 @@
 # PlotBot
-The objective of this script is to create a bot that when called performs a sentiment analysis on the last 500 tweets of a user and then graphically represents that sentiment analysis. The bot updates every 5 minutes on the selescted users. feel free to select a different user to see their sentiment analysis.
+The objective of this script is to graphically represent the sentiment analysis of 5 different news networks. Based on their last 100 twets, we are trying to see how thay compar to each other. The results we recieved we interesting because some networks seemed more negative in the material they were reprting than others.
